@@ -1,10 +1,10 @@
 def sum(list_of_numbers):
     #taking list and sum all of them
-    return None
+    return sum(list_of_numbers)
 
-def mulp():
+def mulp(a,b):
     
-    return None
+    return a*b
 
 def update():
     
