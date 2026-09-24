@@ -1,6 +1,6 @@
-def sum(list_of_numbers):
+def sum(a,b):
     #taking list and sum all of them
-    return sum(list_of_numbers)
+    return a+b
 
 def mulp(a,b):
     
